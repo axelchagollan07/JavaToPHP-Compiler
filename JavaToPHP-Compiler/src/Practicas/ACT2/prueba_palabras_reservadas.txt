@@ -1,0 +1,8 @@
+int
+long
+float
+double
+char
+boolean
+if
+while
