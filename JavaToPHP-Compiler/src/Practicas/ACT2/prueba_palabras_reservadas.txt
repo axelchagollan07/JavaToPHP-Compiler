@@ -1,0 +1,99 @@
+// Tipos de datos y constantes
+int
+float
+bool
+string
+null
+true
+false
+void
+var
+
+// Palabras clave de control
+if
+else
+while
+for
+do
+switch
+case
+break
+continue
+return
+function
+class
+interface
+implements
+extends
+namespace
+use
+try
+catch
+throw
+finally
+yield
+
+// Operadores aritméticos
++
+-
+*
+/
+%
+**
+++
+--
+
+// Operadores relacionales
+==
+!=
+<>
+<=
+>=
+<
+>
+
+// Operadores lógicos
+&&
+||
+!
+??
+
+// Asignación
+=
++=
+-=
+*=
+/=
+%=
+.=
+&=
+|=
+^=
+**=
+<<=
+>>=
+??=
+
+// Otros
+->
+::
+?
+
+// Identificadores
+miVariable
+_nombre
+contador1
+
+// Números
+123
+45.67
+
+// Cadenas
+"Hola mundo"
+"Cadena con \"comillas\" escapadas"
+
+// Comentarios
+// Comentario de línea
+# Otro comentario de línea
+/* Comentario
+   de bloque */
